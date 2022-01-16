@@ -26,7 +26,7 @@ Mozilla Public License Version 2.0
 
     (a) that the initial Contributor has attached the notice described
         in Exhibit B to the Covered Software; or
-
+    
     (b) that the Covered Software was made available under the terms of
         version 1.1 or earlier of the License, but not also under the
         terms of a Secondary License.
@@ -52,7 +52,7 @@ Mozilla Public License Version 2.0
     (a) any file in Source Code Form that results from an addition to,
         deletion from, or modification of the contents of Covered
         Software; or
-
+    
     (b) any new file in Source Code Form that contains any Covered
         Software.
 
